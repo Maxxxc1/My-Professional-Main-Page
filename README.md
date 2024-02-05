@@ -18,7 +18,8 @@ Please open the index.html file by clicking/copy and pasting, to open the html o
 User needs to open both repo and live URL links attached to file in order to open Internet window containing Personal Professional Protfolio Landing Page
 
 
-Screenshots:
+## Screeshots
+
 
 ???
 
