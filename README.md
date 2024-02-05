@@ -18,11 +18,11 @@ Please open the index.html file by clicking/copy and pasting, to open the html o
 User needs to open both repo and live URL links attached to file in order to open Internet window containing Personal Professional Protfolio Landing Page
 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Screenshots:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+???
+
+
 ## Built With
 
 VS Code: program
