@@ -23,10 +23,19 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```md
     ![alt text](assets/images/screenshot.png)
     ```
+## Built With
+
+VS Code: program
+html: Hypertext Markup Language, a standardized system for tagging text files to achieve font, color, graphic, and hyperlink effects on World Wide Web pages
+css: cascading style sheets method ussed to style webpages and make them more user friendly
+
 
 ## Credits
 
 UTSA Coding Bootcamp HTML Index Starter Code:
+
+Resume:
+
 
 [
 ](https://git.bootcampcontent.com/University-of-Texas-at-San-Antonio/UTSA-VIRT-FSF-PT-01-2024-U-LOLC/-/blob/main/Challenges/02-Advanced-CSS/Main/index.html?ref_type=heads)
