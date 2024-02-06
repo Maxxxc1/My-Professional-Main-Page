@@ -2,13 +2,11 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 This project is one to assist me in opening doors to new careers and proejects that can advance society in a positive way.
 This project is to display the skills and techniques I as an engineer am able to contribute to any given project.
 This application landing page describes me as a professional and contains personal contact info
 
-## Running the  Code
+## Running the Code
 
 Please open the index.html file by clicking/copy and pasting, to open the html on your designated browser
 
