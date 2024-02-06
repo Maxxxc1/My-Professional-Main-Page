@@ -20,7 +20,7 @@ User needs to open both repo and live URL links attached to file in order to ope
 
 Link:  
 
-![ALT Text .](./Images/01-css-box-styling.png)
+![ALT Text .](./assets/images/Challenge2SS.png)
 
 
 Screenshots:
