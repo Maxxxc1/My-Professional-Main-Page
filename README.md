@@ -20,7 +20,7 @@ User needs to open both repo and live URL links attached to file in order to ope
 
 Screenshot/Link:  
 
-![Link to open the screenshot for Project .](./Images/01-css-box-styling.png)
+![Link to open the screenshot for Project .](assets/images/Challenge2SS.png)
 
 
 ## Built With
