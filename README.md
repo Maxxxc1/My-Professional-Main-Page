@@ -18,12 +18,9 @@ User needs to open both repo and live URL links attached to file in order to ope
 
 ## Links and Screeshots
 
-Link:  
+Screenshot/Link:  
 
-![ALT Text .](./assets/images/Challenge2SS.png)
-
-
-Screenshots:
+![Link to open the screenshot for Project .](./Images/01-css-box-styling.png)
 
 
 ## Built With
