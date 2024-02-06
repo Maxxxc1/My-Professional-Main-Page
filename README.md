@@ -18,12 +18,12 @@ User needs to open both repo and live URL links attached to file in order to ope
 
 ## Links and Screeshots
 
-Link:  
+Screenshot/Link:  
 
-![ALT Text .](./Images/01-css-box-styling.png)
+![Link to open the screenshot for Project .](./Images/01-css-box-styling.png)
 
 
-Screenshots:
+
 
 
 ## Built With
